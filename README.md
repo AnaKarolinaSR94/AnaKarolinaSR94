@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Karol Reges 👩🏽‍💻
+I am a **`Software Engineer`** student at the Federal University of Goiás (UFG)
+
+I am currently a researcher at [CEIA](https://ceia.ufg.br/), focusing on generative AI applied to software engineering.
+<br>
+<br>
+#### 📊 GitHub Stats
+
+[![GitHub stats](https://vercel-github-readme-stats-psi.vercel.app/api?username=AnaKarolinaSR94&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/AnaKarolinaSR94/github-readme-stats)
+[![GitHub language stats](https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=AnaKarolinaSR94&layout=compact&langs_count=4&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **AnaKarolinaSR94/AnaKarolinaSR94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
