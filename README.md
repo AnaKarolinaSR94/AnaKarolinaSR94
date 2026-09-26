@@ -5,8 +5,8 @@ class KarolReges(Developer):
 
     lab       = "CEIA — Center of Excellence in AI"   # https://ceia.ufg.br
     research  = "Generative AI applied to Software Engineering"
-    learning  = ["LLMs", "AI agents", "RAG"]          # ✏️ edit me
-    ask_me    = ["AI for code", "Python", "research life"]
+    learning  = ["LLMs", "AI agents", "Context Engineer"]
+    ask_me    = ["AI for code", "Python", "research life", "AI context"]
 
     def status(self) -> str:
         return "prompt → model → code → coffee → repeat ☕"
@@ -19,7 +19,9 @@ diff
 - output: "rests"                       # confidence 0.03
 + output: "fine-tunes a model for fun"  # confidence 0.97
 
-Fun fact: ✏️ write something about you here — a hobby, a favorite paper, your go-to snack while debugging.
+Fun fact: 
+✏️ Degree in Biological Sciences
+🍄 I conducted research on fungi of the phylum Basidiomycota
 
 </details>
 📬  Let's connect
