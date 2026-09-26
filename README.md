@@ -6,8 +6,8 @@ I am currently a researcher at [CEIA](https://ceia.ufg.br/), focusing on generat
 <br>
 #### 📊 GitHub Stats
 
-[![GitHub stats](https://vercel-github-readme-stats-psi.vercel.app/api?username=AnaKarolinaSR94&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/AnaKarolinaSR94/github-readme-stats)
-[![GitHub language stats](https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=AnaKarolinaSR94&layout=compact&langs_count=4&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://vercel-github-readme-stats-psi.vercel.app/api?username=AnaKarolinaSR94&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/AnaKarolinaSR94/github-readme-stats)
+[![GitHub language stats](https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=AnaKarolinaSR94&layout=compact&langs_count=4&theme=tokyonight)](https://github.com/AnaKarolinaSR94/github-readme-stats)
 
 <!--
 **AnaKarolinaSR94/AnaKarolinaSR94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
